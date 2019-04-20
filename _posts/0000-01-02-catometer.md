@@ -1,6 +1,6 @@
-----
+---
 layout: slide
 title: "Welcome to our second slide!"
-----
-Your text here
-Well, now use the left arrow, dumbass.
+---
+Your text
+Use the left arrow to go back!
